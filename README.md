@@ -51,4 +51,4 @@ Este proyecto permite controlar un aro LED RGB (basado en WS2812 o similar) medi
 
 6. **Desde un navegador, entra a esa IP y usa los sliders para controlar el color.**
   
-   
+   ![Interfaz Web](https://i.postimg.cc/C1TMSjGx/Byte-Maker.png)
