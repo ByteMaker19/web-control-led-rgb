@@ -44,11 +44,11 @@ Este proyecto permite controlar un aro LED RGB (basado en WS2812 o similar) medi
    const char* password = "TU_PASSWORD";
 
 4. **Sube el código al ESP32.:**
-   ```cp
+   
 
 5. **Abre el Monitor Serial (baud 115200) para ver la dirección IP**
-   ```cp
+   
 
 6. **Desde un navegador, entra a esa IP y usa los sliders para controlar el color.**
-   ```cp
+  
    
